@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning machine language
 - 💞️ I’m looking to collaborate on Raspberry Pi Pico based chatbot
-- 📫 How to reach me preneethvishwk@gmail.com
+- 📫 How to reach me preneethvishwak@gmail.com
 - 😄 Pronouns: attacking helicopter
 - ⚡ Fun fact: ...
 
